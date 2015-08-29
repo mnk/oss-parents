@@ -31,7 +31,7 @@ under the License.
         <module>jvnet-parent</module>
         <module>codehaus-parent</module>
         <module>plugins-parent</module>
-        <module>nexus-plugins-parent</module>
+<!--         <module>nexus-plugins-parent</module>  -->
         <module>license-headers</module>
     </modules>
 
